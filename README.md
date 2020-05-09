@@ -1,0 +1,2 @@
+# Hangman-game-project
+The word to guess is represented by a row of dashes, representing each letter of the word. If the guessing player suggests a letter which occurs in the word, the program writes it in all its correct positions. If the suggested letter does not occur in the word, the program draws one element of a hanged man stick figure as a tally mark. If the word is correct, the game is over and the guesser wins.
